@@ -1,2 +1,2 @@
 # Exercicios_Faculdade
-**Exercicios do 1° periodo de Sistemas da Informação**
+**Exercicios Introdução a algoritmos 1°Periodo **
